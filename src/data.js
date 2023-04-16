@@ -1,22 +1,3 @@
 export default {
-    activitiesData: {
-        1: {id: 1,
-            start_time: 11.12,
-            duration: 11111000,
-            name: "name1",
-            url: "http://localhost",
-            data_size: null},
-        2: {id: 2,
-            start_time: 128182.1,
-            duration: 299229,
-            name: "name2",
-            url: "http://localhost/1",
-            data_size: 101010},
-        3: {id: 3,
-            start_time: 11.12,
-            duration: 11111000,
-            name: "name1",
-            url: "http://localhost",
-            data_size: null},
-    },
+    data: {"duration":{"names": ["id", "start_time"], "values": [3642626793764804437, 1681634569956]}}
 }

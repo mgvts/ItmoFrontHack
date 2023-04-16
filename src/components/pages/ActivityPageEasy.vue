@@ -1,6 +1,6 @@
 <template>
   <div class="activity-info">
-    <div class="name">
+    <div clas="name">
       This is {{ activity.name }}.
     </div>
 
